@@ -18,7 +18,7 @@ cd git-learning-1
 Créer le fichier README.md et y écrire du texte :
 echo "Mon premier projet Git" > README.md
 Ajouter une ligne avec ton nom et numéro de Mac :
-echo "Nom : Ousseini, Mac : [numéro de Mac]" >> README.md
+echo "Nom : Nawaratou, Mac : 17" >> README.md
 Ajouter le fichier à l’index de Git :
 git add README.md
 Créer un commit pour enregistrer les modifications :
