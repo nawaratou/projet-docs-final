@@ -16,7 +16,7 @@ Créer une branche myself :
 git checkout -b myself
 Créer un fichier about.txt avec tes infos :
 
-echo "Nom: Ousseini, Prénom: Hama, Lieu de naissance: Niamey" > about.txt
+echo "Nom: Nawaratou, Prénom: Hama, Lieu de naissance: Niamey" > about.txt
 Ajouter et committer le fichier :
 
 git add about.txt
